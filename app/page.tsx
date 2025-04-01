@@ -116,7 +116,7 @@ export default function Home() {
                       "Showcase Your Portfolio",
                       "Find Perfect Opportunities",
                     ]}
-                    className="text-left text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl xl:text-6xl/none"
+                    className="text-left text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl xl:text-6xl/none max-w-xs md:max-w-xl"
                     textClassName="bg-clip-text bg-gradient-to-r from-white via-purple-100 to-white/90"
                     interval={4000}
                   />
